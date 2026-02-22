@@ -1,0 +1,9 @@
+# Ignore everything by default
+*
+
+# Then whitelist only the files we want to track
+!.gitignore
+!README.md
+!example_input.txt
+!*.h
+!*.cpp
