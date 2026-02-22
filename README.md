@@ -60,3 +60,6 @@ g++ -std=c++11 -Wall -o quake_assist main.cpp MissionStack.cpp QuakeAssistContro
 ├── QuakeAssistController.h/.cpp# Command parser and system orchestrator
 └── example_input.txt           # Sample input for testing
 ```
+## License
+
+This project is part of the BBM203 Data Structures course.
